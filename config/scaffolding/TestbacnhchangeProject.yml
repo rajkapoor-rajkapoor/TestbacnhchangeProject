@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TestbacnhchangeProject
+  gitServerName: rajka
+  gitUrl: https://github.com/rajkapoor-rajkapoor
+  gitUsername: rajkapoor-rajkapoor
+  gitBranch: main
